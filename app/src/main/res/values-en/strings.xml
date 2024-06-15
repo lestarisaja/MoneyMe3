@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">MoneyMe</string>
+    <string name="error">Failed to load data Connection error</string>
+    <string name="try_again">Try Again</string>
+    <string name="profil">Profil</string>
+    <string name="tutup">Close</string>
+    <string name="logout">Logout</string>
+    <string name="tambah_tipe">Add Type</string>
+    <string name="tipe">Type</string>
+    <string name="tanggal">Date</string>
+    <string name="deskripsi">Descriptioon</string>
+    <string name="batal">Cancel</string>
+    <string name="simpan">Save</string>
+    <string name="konfirmasi_hapus">Are you sure you want to delete?</string>
+    <string name="hapus">Delete</string>
+    <string name="kembali">Back</string>
+    <string name="tentang_aplikasi">About App</string>
+    <string name="copyright">Hello, Welcome Lestari! Try to start calculating your income and expenses, so you know if you are a frugal person? Have you recorded your finances today?  This application is made for Assessment 3.  Copyright ©2024 Lestari Saja.          All rights reserved.</string>
+    <string name="share">Share Data</string>
+    <string name="gambar">Gambar %1$s</string>
+</resources>
